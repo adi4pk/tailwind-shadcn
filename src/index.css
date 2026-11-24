@@ -10,6 +10,8 @@
 
     --color-brand: #662d91;
 
+    --color-alternative: oklch(0.371 0 0);
+
 }
 
 @theme inline {
